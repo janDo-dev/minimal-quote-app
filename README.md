@@ -1,6 +1,7 @@
 # Minimal Quote App (React + TypeScript Learning Project)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+This project uses the [Quote Garden API](https://quote-garden.herokuapp.com/api/v3/quotes/).
 
 ## Available Scripts
 
