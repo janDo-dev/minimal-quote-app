@@ -1,1 +1,1 @@
-# minimal-quote-app
+# Minimal quote app (Learning project)
